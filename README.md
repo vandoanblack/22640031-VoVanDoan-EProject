@@ -87,7 +87,7 @@ Hành động: Copy giá trị `_id` của sản phẩm vừa tạo.
 * Body: `raw` (JSON)
     ```json
     {
-        "products": ["<ID_SẢN_PHẨM_VỪA_COPY>"],
+        "products": "<ID_SẢN_PHẨM_VỪA_COPY>",
         "totalPrice": 350000
     }
     ```
