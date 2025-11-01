@@ -39,7 +39,7 @@ Các dịch vụ giao tiếp với nhau qua mạng nội bộ do Docker tạo ra
 
 ---
 
-## 🛠️ Kiểm thử API với Postman
+### 🛠️ Kiểm thử API với Postman
 
 Sau khi hệ thống đã khởi chạy, bạn có thể sử dụng Postman để kiểm tra các chức năng. Tất cả các yêu cầu đều được gửi đến API Gateway qua cổng **`8088`**.
 
